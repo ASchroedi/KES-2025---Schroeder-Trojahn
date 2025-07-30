@@ -1,0 +1,41 @@
+Analyse the following text.
+It contains bibliometric information on scientific publications.
+In the following part of the prompt, I will describe the contents of the text file:
+	The content is structured and separated by double semicolons (`;;`) in this order:
+	- Title
+	- Abstract
+	- Keywords
+
+Your task is to evaluate each entry based on the following:
+Subject area of interest: “Use of 5G technology in research in the field of construction and civil engineering”
+
+Please answer the following criterions individually for each entry and give a percentage rating (0% = doesn't answer the question at all, 100% = a comprehensiv, explicit explaination to the criterion is given).
+
+These are the criterions:
+	1) Is 5G technology being used in the construction industry?
+	2) What use cases for 5G are currently described in the literature?
+	3) How is the introduction of 5G technology described for the user?
+	4) Which theoretical approaches are used to describe the introduction of the technology?
+
+In the next step, create an overall rating including the results of criterion 1 to criterion 4 by calculating the mean value.
+Use a clear weighting of the four criteria:
+Criterion 1: 35%
+Criterion 2: 35%
+Criterion 3: 15%
+Criterion 4: 15%
+
+Finally explain, why briefly why the final rating was given in a maximum of two sentences. 
+
+The result could look like this and were seperated with a semicolon:
+Title: [Insert title];
+Criterion 1: [e,g, 85%]; 
+Criterion 2: [e,g, 45%];  
+Criterion 3: [e,g, 100%];
+Criterion 4: [e,g, 0%];
+Overall Rating: [e.g. 60%];
+Explanation: [Short justification based on the four criteria]
+
+Do not explain the decision for the single criterions but just for the overall rating
+
+This is the text:
+

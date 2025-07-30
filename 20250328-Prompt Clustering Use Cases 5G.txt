@@ -1,0 +1,167 @@
+Your task: Analyze the following list of use cases.
+
+Goals:
+
+Group the use cases into meaningful clusters based on thematic, technological, or application-related similarities.
+
+Name each cluster clearly and concisely.
+
+Explain the logic and criteria behind your clustering process in a structured and understandable way.
+
+Important constraints:
+
+Do not modify, rephrase, or interpret the individual use cases.
+
+Use only the original text lines as input.
+
+Input format:
+
+Each line represents one distinct use case.
+
+All use cases are related to applications of 5G technology in the construction sector.
+
+Expected Output Format:
+Cluster 1: [Cluster Name]
+Cluster 2: [Cluster Name]
+...
+
+Explanation of Clustering:
+[Describe how you grouped the use cases, what criteria or categories you used, and how overlaps or distinctions were handled.]
+
+
+These are the text:				
+	Remotely Controlled and Autonomous Machinery;
+	Health and Safety at Worksites;
+	3D Models;
+	Construction Processes’ Management;
+	Emissions and Waste Management;
+	Support for IoT-based Cloud Manufacturing (CM) platforms in construction through high-speed, low-latency communication enabled by 5G technology;
+	Enabling real-time intercommunication between machines and users in predictive analytics applications within 3D printing for construction;				
+	Data Collection for Energy Consumption Monitoring;
+	Support for Embedded Systems in Building Monitoring;
+	Facilitation of Wireless Transmission in ZigBee-based Networks;
+	Real-time Supervision via Network Layer in IoT Architectures;
+	Enabling Predictive Information Modeling;
+	Use of 5G in the creation of a three-dimensional reality model;
+	Real-time data transmission for unmanned vehicle operation in open-pit mines using 5G to support edge computing applications such as guidance, positioning, route planning, task scheduling, and motion control;
+	Deployment of intelligent transportation scheduling systems based on 5G at the Sandaozhuang open-pit mine to improve unmanned truck coordination and operational efficiency;
+	Application of 5G for communication between unmanned vehicles and mobile edge computing (MEC) servers to reduce latency and support offloading computational tasks;
+	Use of 5G in enabling the autonomous operation of electric unmanned mining trucks (autonomous driving, loading, reversing, unloading) in a live mining environment;		
+	Integration of Subsystems in Smart Buildings
+	5G-Based Fire Alarm Systems
+	5G-Based Access Control and Surveillance;
+	Building Automation System (BAS) Communication;
+	Simulation of 5G Network Performance in Building Environments;	
+	Digital Site Management Integration;
+	Support for Real-Time Monitoring via UAVs;								
+	Real-time transmission of construction quality data from field equipment to a remote central server via 5G wireless communication networks;
+	Integration of 5G networks with intelligent sensing and Internet of Things (IoT) technologies to enable dynamic monitoring of key indicators during asphalt mixture production, transportation, paving, and compaction processes;
+	Enabling the feedback of abnormal construction quality data to site managers through SMS alerts using real-time data transmission;
+	Supporting the deployment of a decision-support system based on neural network models (IPSO-RBF) that rely on timely and accurate data inputs facilitated by 5G;
+	Use of 5G for Intelligent Operation and Maintenance Management;
+	Use of 5G for Teleconsultation and Remote Medical Services;						
+	Use of 5G (MIMO-D2D system) for thaw settlement coefficient prediction;
+	Real-time traffic data acquisition and monitoring;
+	Risk analysis for 5G base station construction projects;				
+	Providing wireless communication on construction sites;
+	Deployment of private or partially leased 5G networks by construction enterprises;				
+	Real-time transmission of monitoring data;
+	Real-time data transmission during asphalt mixture production, mixing, transportation, paving, and rolling;
+	Transmission of monitoring data from temperature and vibration sensors on road rollers;
+	Live video feedback and remote supervision of construction operations;
+	Real-time alerts and feedback to personnel when parameters exceed thresholds;
+	Integration and synchronization of monitoring data across multiple construction stages;						
+	5G signal transmission analysis in indoor environments;
+	Antenna configuration for optimized signal delivery in constructed environments;				
+	Real-Time Monitoring of Tunnel Structures;
+	Data Transmission in Wireless Sensor Networks;
+	Emergency Response via 5G Remote Linkage;		
+	Communication among construction equipment in tunnel construction sites;
+	Real-time video streaming and media transmission;
+	Transmission of safety alerts and construction instructions;
+	Environmental and geological data exchange;
+	Cooperative relay transmission across tunnel construction sites;
+	Support for systematic construction workflow coordination;
+	Deployment of NSA and SA base stations for mobile communication infrastructure in urban areas;
+	Construction of macro and micro station products for continuous 5G coverage;
+	Planning and layout of 5G signal stations with attention to environmental adaptability;
+	Installation and configuration of 5G wireless equipment in urban construction contexts;
+	Use of wireless equipment for large-scale indoor and outdoor signal coverage;
+	Real-time wireless monitoring of mechanical parameters
+	Transmission of stress data from sensors to a cloud platform via a 5G-enabled LPWA network;								
+	Indoor 3D reconstruction to support 5G communication infrastructure planning;	
+	Deployment of Micro Base Stations (MBSs) on construction-relevant urban infrastructure;
+	Wireless communication on complex curved surfaces;
+	Potential future integration in smart homes and wearable devices;			
+	Remote Monitoring of Construction Sites;
+	Real-Time Video Surveillance;
+	Unmanned Aerial Vehicle (UAV)-Based Site Surveys;							
+	Use in 5G and mm-wave antenna systems;						
+	Indoor 5G Coverage Planning;							
+	Enhancement of building evacuation procedures through real-time data sharing;
+	Urban drone monitoring through 5G-enabled IoT surveillance networks;
+	Support of smart city infrastructure via 5G-IoT integration;		
+	Real-time data transmission for unmanned vehicles in open-pit mining;
+	Smart scheduling of unmanned vehicles in open-pit mines;
+	Edge computing integration for open-pit mining systems;		
+	Vehicle detection in smart city environments using 5G-V2X technology;
+	Enhancement of real-time security perception systems via 5G-enabled communication between vehicles and infrastructure (V2X);
+	Deployment of 5G in smart buildings to enable connectivity of IoT devices;
+	Use of 5G in smart cities to facilitate integration of infrastructure components such as smart grids, smart vehicles, and smart governance;
+	Implementation of 5G for real-time data communication between building systems and cloud servers;
+	Utilization of 5G to support the energy optimization and automated control of building systems (e.g., HVAC, sensors, lighting);
+	Role of 5G in connecting wearable and body-centric devices as part of smart building systems;
+	Smart/energy-efficient windows for 5G signal transmission;
+	Installation of 5G base station antennas on utility poles;
+	Installation of 5G base station antennas on building/concrete walls;
+	Real-time communication between unmanned bulldozer and cloud platform;
+	Remote control of construction machinery;
+	Data transmission for environmental perception systems;
+	Construction quality monitoring and evaluation;
+	Coordination with digital construction service platforms;
+	Virtual Reality-Based Optimization of Building Models;
+	Real-Time Interactive Roaming of Architectural Models;
+	Simulation of Building Energy Consumption;
+	High-Performance Data Transmission in VR Systems;								
+	Facade Inspection using 5G-powered AI and Drones;
+	Remote VR/AR-based Training for Building Measurement and Construction Technology;
+	Facilities Management in Smart Buildings;
+	Energy Management in Building;
+	Digital Twin Implementation in Buildings;
+	AI-Powered Predictive Maintenance in Building Systems;
+	Remote Project Meetings;	
+	Mobile Applications in Construction;
+	Distributed Workforce Support;
+	Construction Management Software;								
+	Implementation of “coal mine transparent geological information systems” based on 5G and IoT technologies;
+	Deployment of “coal mine intelligent robot underground operation” enabled by 5G and artificial intelligence;
+	Formation of intelligent production systems with autonomous decision-making and execution using 5G and AI technologies, aimed at achieving unmanned mining;
+	Construction diagnosis;
+	Use of 5G for Digital Infrastructure in Urban Governance;
+	Support for Smart City Applications;				
+	Real-time structural condition assessment using AR and 5G for a lab-scale reinforced concrete (RC) beam;
+	Real-time structural condition assessment using AR and 5G for a full-scale bridge inspection;						
+	Real-time monitoring of environmental changes at construction sites;
+	Real-time sensor data transmission for assembled components;
+	Transmission of warning signals during transportation, construction, and maintenance;
+	High-speed aggregation of IoT data to centralized data centers;
+	Support for AI-based predictive analytics using historical data;
+	Use of 5G for remote control of construction machines (Brokk 170);
+	Deployment of 5G network using tower cranes on dynamic construction sites;
+	5G-based human detection and safety alert system using mobile robots (INNOK444);
+	Trajectory control of construction machinery through 5G-enabled real-time communication;
+	Network performance comparison between 5G and WiFi5 on construction sites;		
+	Facilitating real-time data exchange in Digital Twin systems;
+	Enabler of Industry 4.0 and 5.0 interconnectivity;	
+	Real-time video recognition in smart communities;
+	Smart emergency response systems;
+	Location-based services for community interaction;
+	Data transmission for integrated IoT platforms;
+	Support for cloud-based health monitoring;
+	Use of 5G to support BIM-based architectural design and construction management;
+	Use of 5G to enhance data transfer and processing capabilities in construction-related cloud computing platforms;
+	Use of 5G to reduce latency and improve efficiency in collaborative design and simulation analysis;
+	Use of 5G in energy efficiency and green building applications within the BIM framework;
+	Integration of 5G micro base stations into smart light poles;
+	Vehicle-road cooperative perception and unmanned driving;
+	Cloud-side coordination and video-on-cloud business;		
